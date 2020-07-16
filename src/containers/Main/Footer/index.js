@@ -62,7 +62,7 @@ const Footer = () => {
             className="logo"
             href="/appclassic"
             logoSrc={logo.publicURL}
-            title="App Classic"
+            title="Home"
           />
           <Menu>
             {menu.map(item => (

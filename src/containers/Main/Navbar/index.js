@@ -91,7 +91,7 @@ const Navbar = () => {
           className="logo"
           href="/appclassic"
           logoSrc={logo.publicURL}
-          title="App Classic"
+          title="Home"
         />
         {/* end of logo */}
 
