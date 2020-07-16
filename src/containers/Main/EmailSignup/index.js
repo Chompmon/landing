@@ -10,7 +10,6 @@ const EmailSignup = () => {
     <EmailSignupArea id="trail">
       <ContentWrapper>
         <Fade up delay={100}>
-          <script async data-uid="4c00307997" src="https://upbeat-writer-3751.ck.page/4c00307997/index.js"></script>
           <Heading content={'Learn When We Launch'} />
         </Fade>
         <Fade up delay={200}>
